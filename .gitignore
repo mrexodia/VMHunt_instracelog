@@ -1,0 +1,7 @@
+*.user
+.vs/
+x64/
+Release/
+Debug/
+
+/instracelog.cpp
